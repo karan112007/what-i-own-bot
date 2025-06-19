@@ -1,8 +1,8 @@
 from telethon import TelegramClient, events, Button
 
-api_id = 'YAHAN_APNA_API_ID_DALEIN'
-api_hash = 'YAHAN_APNA_API_HASH_DALEIN'
-bot_token = 'YAHAN_APNA_BOT_TOKEN_DALEIN'
+api_id = '27656524'
+api_hash = 'ed46da60f70256f6592ab78762c7c718'
+bot_token = '7653467136:AAG0pmWiKCLajdremRMxgAvmxAbSy6PZPhI'
 
 bot = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 
